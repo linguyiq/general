@@ -1,8 +1,3 @@
-<!---
-linguyiq/linguyiq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 - 👋 Hi, I’m @linguyiq
 - 👀 I’m interested in Linux, AWS. Azure, Google Cloud, Virtualization, Dockers and K8s
 - 🤯 I'm automation-focused engineer with hands-on expertise in orchestrating infrastructure using Ansible, Terraform, and Jenkins
